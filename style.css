@@ -159,6 +159,21 @@ main {
 
 
 
+.logo-insta:hover {
+    width: 50px;
+    height: 50px;
+    transition-duration: 1s;
+}
 
+.logo-face:hover {
+    width: 50px;
+    height: 50px;
+    transition-duration: 1s;
+}
 
-    
+ footer{
+	padding: 50px;
+	background-color: rgba(128, 128, 128, 0.159);
+	display: flex;
+	justify-content: center;
+}
